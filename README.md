@@ -11,8 +11,8 @@ Ou MKard se você me conhece pelo meu instagram ou Deviantart onde posto meus de
 #### Educação|História|Animação 2D|Pixelart|Desenvolvimento de Jogos
 
 ## Um pouco sobre mim:
-Sou formada em História pela Puc Minas e pós graduada em História e Cultura Afrodescendente pela Fabra e atualmente atuo como funcionaria pública.
-Tenho como hobby desenhar pixel art, algo que comecei a fazer na adolescencia para modificar sprites com o fim de utiliza-los no rpg maker. Por isso iniciei um curso tecnólogo em Desevolvimento de Jogos Digitais pela Unicesumar como forma de ampliar meus conhecimentos. Sou grata pela oportunidade de participar do Bootcamp Santander 2024: Criando Jogos com o Godot.
+Sou formada em História pela Puc Minas e pós graduada em História e Cultura Afrodescendente pela Fabra e atualmente estou cursando Design de Games na UAM.
+Tenho como hobby desenhar pixel art, algo que comecei a fazer na adolescencia para modificar sprites com o fim de utiliza-los no rpg maker.
 
 
 ## Contato
